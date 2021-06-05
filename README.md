@@ -1,7 +1,6 @@
 # Spoon-School
 
-_Experiential Solar System Education Using Projection Mapping for Lower Grade Students_ </br>
-![spoon_school](/image/intro.jpg)
+## Experiential Solar System Education Using Projection Mapping for Lower Grade Students </br>
 ### Members
 이대성 이성원 이유리 임도전 정수현
 </br></br>
@@ -76,16 +75,21 @@ https://github.com/keynekassapa13/solar-system
 ### 3-2. how to play
 #### 3-2-1. Splash Screen
 The program starts when a user brings aruco marker to the Sun
-
+![spoon_school](/img/splashScreen.png)
 
 #### 3-2-2. Main Screen
 The solar system keeps rotating around the Sun and an object is tracking the aruco marker
+![spoon_school](/img/mainScreen.png)
 
 #### 3-2-3. Selecting a Planet
 A description of a planet appears when the user object approaches the planet
+![spoon_school](/img/descriptionScreen1.png)
+![spoon_school](/img/descriptionScreen2.png)
 
 #### 3-2-4. Game Mode
 The Game Mode starts when a button (number 6) is pressed. The planets rotate faster and the user object should reach the Sun without crushing with other planets.
+![spoon_school](/img/gameModeLost.png)
+![spoon_school](/img/gameModeWin.png)
 
 
 </br></br>
