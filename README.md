@@ -4,6 +4,7 @@ _Experiential Solar System Education Using Projection Mapping for Lower Grade St
 ![spoon_school](/image/intro.jpg)
 ### Members
 이대성 이성원 이유리 임도전 정수현
+</br></br>
 ***
 ## *1. Background*
 ***
